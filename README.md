@@ -152,17 +152,3 @@ strategy_train_env/
 ## Datasets
 
 Please refer to https://tianchi.aliyun.com/competition/entrance/532236/customize448
-
-## Citation
-
-If you find our work useful, please consider citing us!
-
-```bibtex
-@inproceedings{zhang2026guide,
-  title={Generative Auto-Bidding with Unified Modeling and Exploration},
-  author={Zhang, Mingming and Zhuang, Feiqing and Li, Na and Sun, Shengjie and Chen, Xiaowei and Zhu, Junxiong and Xiao, Fei and Yang, Keping and Zou, Lixin and Li, Chenliang},
-  booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  year={2026},
-  doi={10.1145/3805712.3809661}
-}
-```
